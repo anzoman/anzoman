@@ -1,4 +1,6 @@
-### Hi there, I am Anže 👋
+## Hi there, I am Anže 👋
+
+<img src="https://github.com/anzoman/anzoman/raw/main/hello%20sunshine.png" width="128"/>
 
 - 🔭 I’m currently working as a **Lead Toolchain Engineer** at [XLAB](https://xlab.si/).
 - :gear: I contribute to enabling trustable automation at [XLAB Steampunk](https://steampunk.si/). 
@@ -7,7 +9,7 @@
 - 💬 Ask me about: Anythin g you want.
 - 📫 How to reach me: [Gmail](aluzarwork@gmail.com) or [LinkedIn](https://www.linkedin.com/in/anze-luzar/).
 - 😄 Pronouns: He/Him.
-- :soccer: I love football.
+- :soccer: Loves football, summer and camping.
 
 ### About me
 I am full of energy and ready to accept any kind of challenge. I like being out of my comfort zone and always trying to explore new things. I am also passionate about tech, sports, traveling the world, and meeting new people. 
