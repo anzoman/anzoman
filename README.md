@@ -3,9 +3,9 @@
 <img src="https://github.com/anzoman/anzoman/raw/main/hello%20sunshine.png" width="128"/>
 
 - 🔭 I’m currently working as a **Lead Toolchain Engineer** at [XLAB](https://xlab.si/).
-- :gear: As a Software Engineer I contribute to enabling trustable automation at [XLAB Steampunk](https://steampunk.si/). 
+- :gear: As a **Software Engineer** I contribute to enabling trustable automation at [XLAB Steampunk](https://steampunk.si/). 
 - 🌱 I’m currently helping to launch our new IaC scanning tool called [Steampunk Spotter](https://steampunk.si/spotter/). Give it a try!
-- ⚡ As a DevOps Engineer I steer the development of [xOpera](https://github.com/xlab-si/xopera-opera) a cloud orchestrator.
+- ⚡ As a **DevOps Engineer** I steer the development of [xOpera](https://github.com/xlab-si/xopera-opera) a cloud orchestrator.
 - :eu: Contributed to [Gaia-X](https://gaia-x.eu/) project where I was working on the [GXFS Orchestration services](https://gitlab.com/gaia-x/data-infrastructure-federation-services/orc).
 - :monocle_face: See my [GitLab](https://gitlab.com/anzoman) profile to explore more of my work.
 - 📫 How to reach me: [Gmail](mailto:aluzarwork@gmail.com) or [LinkedIn](https://www.linkedin.com/in/anze-luzar/).
