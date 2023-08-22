@@ -1,6 +1,6 @@
 ## Hi there, I am Anže 👋
 
-<img src="https://github.com/anzoman/anzoman/raw/main/hello%20sunshine.png" width="128"/>
+<img src="https://github.com/anzoman/anzoman/raw/main/haiii.png" width="128"/>
 
 - 🔭 I’m currently working as a **Lead Toolchain Engineer** at [XLAB](https://xlab.si/).
 - :gear: As a **Software Engineer** I contribute to enabling trustable automation at [XLAB Steampunk](https://steampunk.si/). 
